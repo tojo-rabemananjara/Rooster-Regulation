@@ -5,6 +5,7 @@ The goal of this project was to practice writing automated tests using Mocha. Au
 ## Technology
 * Node
 * Javascript
+* Mocha (for testing)
 
 ## Launch
 * `npm test`
